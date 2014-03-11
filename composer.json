@@ -1,5 +1,5 @@
 {
-    "name":        "tomkyle/psr/log",
+    "name":        "tomkyle/psr-log",
     "type":        "library",
 
     "authors": [
